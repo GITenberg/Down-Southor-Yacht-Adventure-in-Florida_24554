@@ -1,0 +1,37 @@
+_repo: Down-Southor-Yacht-Adventure-in-Florida_24554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Yachts -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Florida -- Description and travel'
+title: Down South; or, Yacht Adventure in Florida
+url: http://www.gutenberg.org/ebooks/24554
